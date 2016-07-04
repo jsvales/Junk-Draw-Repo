@@ -5,4 +5,5 @@ Monthly_Int = Balance*float((APR/12)/100)
 print
 print APR
 print Balance
-print Monthly_Int
+print Monthly_Int # La La
+
